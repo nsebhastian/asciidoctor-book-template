@@ -1,0 +1,4 @@
+extends: default
+cover:
+  front:
+    image: image:cover.png[page=2]
